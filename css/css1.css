@@ -1,0 +1,59 @@
+//body {
+  //max-width: 850px;
+//}
+body {
+  font-family: Verdana, sans-serif;
+  color: #666666;
+
+  
+}
+
+
+header {
+  color:  #F07C17;
+}
+
+h2 {
+  font-size: 205%;
+    font-weight: bold;
+        padding-bottom: 21px;
+}
+article p {
+  font-size: 140%;
+      line-height: 200%;
+
+}
+
+section ul {
+    font-size: 140%;
+
+    line-height: 200%;
+}
+
+h1 {
+  font-size: 400%;
+    color: #666666;
+}
+
+section {
+  box-sizing: content-box;
+  border-style: solid;
+  border-color: #CCCCCC;
+  border-width: 1px;
+  margin-top: 29px;
+  height: 100%;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 28px;
+  
+}
+section ul {
+ padding-top: 10px;
+}
+
+img {
+  margin-top: 20px;
+}
+.top {
+  margin-top: 25px;
+}
